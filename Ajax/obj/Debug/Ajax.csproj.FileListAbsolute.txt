@@ -1,0 +1,220 @@
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Ajax.dll.config
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Ajax.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Ajax.pdb
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Antlr3.Runtime.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\EntityFramework.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\EntityFramework.SqlServer.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.Google.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Web.Infrastructure.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Newtonsoft.Json.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Owin.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.Helpers.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.Mvc.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.Optimization.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.Razor.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.WebPages.Deployment.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.WebPages.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.WebPages.Razor.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\WebGrease.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.Helpers.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.Mvc.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.Optimization.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.Razor.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.WebPages.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.WebPages.Deployment.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\System.Web.WebPages.Razor.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Newtonsoft.Json.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Antlr3.Runtime.pdb
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\EntityFramework.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\EntityFramework.SqlServer.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.Google.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\obj\Debug\Ajax.csprojResolveAssemblyReference.cache
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\obj\Debug\Ajax.dll
+c:\users\anamol\documents\visual studio 2013\Projects\Ajax\Ajax\obj\Debug\Ajax.pdb
+E:\Ajax\Ajax\bin\Ajax.dll.config
+E:\Ajax\Ajax\bin\Ajax.dll
+E:\Ajax\Ajax\bin\Ajax.pdb
+E:\Ajax\Ajax\bin\Antlr3.Runtime.dll
+E:\Ajax\Ajax\bin\EntityFramework.dll
+E:\Ajax\Ajax\bin\EntityFramework.SqlServer.dll
+E:\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Ajax\Ajax\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.Google.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Ajax\Ajax\bin\Microsoft.Web.Infrastructure.dll
+E:\Ajax\Ajax\bin\Newtonsoft.Json.dll
+E:\Ajax\Ajax\bin\Owin.dll
+E:\Ajax\Ajax\bin\System.Web.Helpers.dll
+E:\Ajax\Ajax\bin\System.Web.Mvc.dll
+E:\Ajax\Ajax\bin\System.Web.Optimization.dll
+E:\Ajax\Ajax\bin\System.Web.Razor.dll
+E:\Ajax\Ajax\bin\System.Web.WebPages.Deployment.dll
+E:\Ajax\Ajax\bin\System.Web.WebPages.dll
+E:\Ajax\Ajax\bin\System.Web.WebPages.Razor.dll
+E:\Ajax\Ajax\bin\WebGrease.dll
+E:\Ajax\Ajax\bin\System.Web.Helpers.xml
+E:\Ajax\Ajax\bin\System.Web.Mvc.xml
+E:\Ajax\Ajax\bin\System.Web.Optimization.xml
+E:\Ajax\Ajax\bin\System.Web.Razor.xml
+E:\Ajax\Ajax\bin\System.Web.WebPages.xml
+E:\Ajax\Ajax\bin\System.Web.WebPages.Deployment.xml
+E:\Ajax\Ajax\bin\System.Web.WebPages.Razor.xml
+E:\Ajax\Ajax\bin\Newtonsoft.Json.xml
+E:\Ajax\Ajax\bin\Antlr3.Runtime.pdb
+E:\Ajax\Ajax\bin\EntityFramework.xml
+E:\Ajax\Ajax\bin\EntityFramework.SqlServer.xml
+E:\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Ajax\Ajax\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.Google.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Ajax\Ajax\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Ajax\Ajax\obj\Debug\Ajax.csprojResolveAssemblyReference.cache
+E:\Ajax\Ajax\obj\Debug\Ajax.dll
+E:\Ajax\Ajax\obj\Debug\Ajax.pdb
+E:\ASPNETCLASS\Ajax\Ajax\bin\Ajax.dll.config
+E:\ASPNETCLASS\Ajax\Ajax\bin\Ajax.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Ajax.pdb
+E:\ASPNETCLASS\Ajax\Ajax\bin\Antlr3.Runtime.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\EntityFramework.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\EntityFramework.SqlServer.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.Google.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Web.Infrastructure.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Newtonsoft.Json.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\Owin.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.Helpers.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.Mvc.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.Optimization.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.Razor.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.WebPages.Deployment.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.WebPages.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.WebPages.Razor.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\WebGrease.dll
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.Helpers.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.Mvc.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.Optimization.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.Razor.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.WebPages.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.WebPages.Deployment.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\System.Web.WebPages.Razor.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Newtonsoft.Json.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Antlr3.Runtime.pdb
+E:\ASPNETCLASS\Ajax\Ajax\bin\EntityFramework.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\EntityFramework.SqlServer.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.Google.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ASPNETCLASS\Ajax\Ajax\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ASPNETCLASS\Ajax\Ajax\obj\Debug\Ajax.csprojResolveAssemblyReference.cache
+E:\ASPNETCLASS\Ajax\Ajax\obj\Debug\Ajax.dll
+E:\ASPNETCLASS\Ajax\Ajax\obj\Debug\Ajax.pdb
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Ajax.dll.config
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Ajax.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Ajax.pdb
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Antlr3.Runtime.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\EntityFramework.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\EntityFramework.SqlServer.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.Google.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Web.Infrastructure.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Newtonsoft.Json.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Owin.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.Helpers.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.Mvc.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.Optimization.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.Razor.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.WebPages.Deployment.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.WebPages.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.WebPages.Razor.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\WebGrease.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.Helpers.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.Mvc.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.Optimization.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.Razor.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.WebPages.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.WebPages.Deployment.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\System.Web.WebPages.Razor.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Newtonsoft.Json.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Antlr3.Runtime.pdb
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\EntityFramework.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\EntityFramework.SqlServer.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.Google.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\obj\Debug\Ajax.csprojResolveAssemblyReference.cache
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\obj\Debug\Ajax.dll
+E:\Tutorials\ASPNET MVC5\Ajax\Ajax\obj\Debug\Ajax.pdb
